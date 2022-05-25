@@ -11,7 +11,7 @@ div.header {
   color: black;
   margin-top: -21px;
   padding-top: 2px;
-  padding-left: 10px; 
+  padding-left: 75px; 
   padding-right: 10px;
 }
 
@@ -36,3 +36,8 @@ h3.headerButton {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+
+div.body {
+  margin: 75px;
+}
+
